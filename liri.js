@@ -1,4 +1,4 @@
-var debug = true;
+var debug = false;
 
 // grab the keys
 var keys = require('./keys.js');
